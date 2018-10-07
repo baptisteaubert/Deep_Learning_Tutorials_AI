@@ -10,7 +10,7 @@ I've done quiet a lot of work as to finding the support user files from differen
 Please note that some files are to big to allow efficient communication with the remote repo. I uploaded most of the data files but some will be missing: 
 * The **darknet** folder - 269,7 Mega Octets should be addded to the path "Deep_Learning_Tutorials_AI/03-Convolutional Neural Networks/Week2". It can be downloaded from: https://pjreddie.com/darknet/yolo. 
 * The file **glove.6B.50d.txt** - 187,4 Mega Octets should be added to the path "Deep_Learning_Tutorials_AI/Sequence Models/Week2/Emojify/data". It can be donladed from https://nlp.stanford.edu/projects/glove. 
-* All the quizzes are removed to stay inline with Coursera Integrity Policy. You will have to do them yourself! :) 
+* All the quizzes are removed to stay in line with Coursera Integrity Policy. You will have to do them yourself! :) 
 
 ### Getting Started
 All the work has been done so that you can run all the notebooks right away. Just create a dedicated virtual env and install **requirements.txt**
