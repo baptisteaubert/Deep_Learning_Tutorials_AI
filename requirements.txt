@@ -39,7 +39,7 @@ prometheus-client==0.3.0
 prompt-toolkit==1.0.15
 ptyprocess==0.6.0
 pycountry==18.5.26
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.7.1
 PySocks==1.6.8
 python-dateutil==2.7.3
